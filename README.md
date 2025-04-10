@@ -1,8 +1,9 @@
-```
+
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![Readme 2025-04-10 105358](https://github.com/user-attachments/assets/6be336d9-6401-4a03-90e6-da8d03bb48df)
+
 
 ## Ferramentas utilizadas:
 
@@ -12,10 +13,11 @@
 
 * Flex-box
 
-## Feito por: João Victor Praxedes de Miranda
+## Feito por
 
 ### João Victor Praxedes de Miranda
 
 ### Linkedin: "https://www.linkedin.com/in/joão-victor-praxedes-de-miranda-189246354"
 
-```
+##  Link da página
+* [Portifólio](https://joaomiranda01.github.io/portifolio/)
